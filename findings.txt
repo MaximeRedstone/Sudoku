@@ -1,0 +1,23 @@
+Summarise your findings here (see specification).
+
+Using a timer to see how long the recursive function takes to find a
+solution for the three mystery boards, I find that:
+
+-Mystery1 takes about 450 ms to run
+-Mystery2 takes about 10 ms to run
+-Mystery3 takes about 10ms to run
+
+The function returns a solution for Mystery1 and Mystery3. Mystery1 and Mystery3 must be the hard and extremely hard Sudoku
+boards.
+
+As the function takes much more time to solve Mystery1, I argue this
+is the extremely hard Sudoku board.
+
+Mystery3 is therefore the hard Sudoku board.
+
+The remaining board that cannot be solved (Mystery2) is therefore the
+impossible one to solve.
+
+
+
+
